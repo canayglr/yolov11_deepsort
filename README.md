@@ -11,3 +11,6 @@ Open jupyter notebook and start working
 
 
 ![1](https://github.com/AarohiSingla/Tracking-and-counting-Using-YOLOv8-and-DeepSORT/assets/60029146/a1057b86-fcd7-412c-b7b0-583101cf91b6)
+
+# I changed the yolo version to 11 and trained the cars instead of people.
+![2]()
